@@ -1,34 +1,36 @@
-
 # EE5110: Probability Foundations for Electrical Engineers
 
-## Overview
+## Course Details
+- Instructor: Venkatesh Ramaiyan (rvenkat@ee.iitm.ac.in)
+- Semester: July - November 2024
 
-This course provides a rigorous introduction to probability theory and random processes, with a focus on applications in electrical engineering. The content is designed to enhance analytical skills and the ability to model random phenomena.
+## Course Objectives
+This course provides a rigorous introduction to probability theory and random processes.
 
-## Course Content
+## Syllabus
+1. Fundamentals of Probability Theory
+2. Applications and Limit Theorems
+3. Random processes
+4. Additional topics in Statistical Signal Processing
 
-### Topics Covered:
-- Fundamentals of Probability Theory
-- Bayesian Inference and Parameter Estimation
-- Random Processes, including Bernoulli and Poisson processes
-- Limit Theorems and Convergence
+## Textbooks and References
+1. Dimitri P Bertsekas and John N Tsitsiklis, "Introduction to Probability", Second Edition
+2. Sheldon M Ross, "A First Course in Probability", Ninth Edition
+3. Henry Stark and John W Woods, "Probability, Statistics and Random Processes for Engineers", Fourth Edition
+4. Walter Rudin, "Principles of Mathematical Analysis", Third Edition
 
-### Course Structure:
-- **Lectures:** Comprehensive lecture notes covering all topics
-- **Assignments:** A series of assignments to apply theoretical knowledge
-- **Reference Materials:** Additional readings and reference books
+## Grading
+- Home Work and Assignments: 20 marks
+- Quiz-I (26 Aug 2024) and Quiz-II (7 Oct 2024): 20 marks each
+- Final quiz (11 November 2024): 40 marks
+- Relative grading system
 
-## How to Use
+## Repository Structure
+This folder contains:
+- Lecture notes
+- Assignments
+- Quizzes
+- Additional resources
 
-1. **Access Lecture Notes:**
-   - Navigate to the `lectures/` directory to review the course lectures.
-
-2. **Assignments:**
-   - Find assignments in the `assignments/` directory and test your understanding.
-
-3. **Additional Resources:**
-   - Utilize the `references/` directory for supplementary materials.
-
-## Contact
-
-For any queries regarding the course materials, please contact me at [usnaveen25@gmail.com].
+## Note
+This README will be updated as new materials are added throughout the semester.
