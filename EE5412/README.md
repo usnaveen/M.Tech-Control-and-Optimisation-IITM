@@ -1,34 +1,26 @@
-# EE5413: Linear Dynamical Systems
+# EE5412: Mathematical Methods in Systems Engineering
 
-## Overview
+## Course Overview
+This course covers advanced mathematical methods essential for systems engineering, focusing on topology, sequences, series, and functions in metric spaces.
 
-This course focuses on the theory and applications of linear dynamical systems, offering a deep understanding of state-space models and control techniques.
+## Topics Covered
+1. Point-set topology
+2. Sequences
+3. Sup, Inf, limit inf, limit sup and Cauchy sequences
+4. Series
+5. Limits, Continuity and Differentiability
+6. Metric spaces
 
-## Course Content
+## Textbooks
+- Mathematical Analysis by Tom Apostol, Narosa Publishing House
+- Real and Convex Analysis by Erhan Çinlar and Robert J. Vanderbei, Springer 2013
+- Analysis I by Terence Tao, Hindustan Book Agency, 2006
 
-### Topics Covered:
-- State-Space Representation of LTI Systems
-- Controllability, Observability, and Realization Theory
-- State Feedback, Pole Placement, and Observer Design
-- Introduction to Stochastic Systems and Kalman Filter
+## Repository Structure
+This folder contains materials related to EE5412, including:
+- Lecture slides
+- Assignments
+- Additional resources
 
-### Course Structure:
-- **Lectures:** In-depth lecture notes on linear dynamical systems
-- **Assignments:** Exercises and problems to solidify understanding
-- **Supplementary Materials:** Additional readings and reference papers
-
-## How to Use
-
-1. **Access Lecture Notes:**
-   - Navigate to the `lectures/` directory to study the course materials.
-
-2. **Assignments:**
-   - Practice with assignments provided in the `assignments/` directory.
-
-3. **Further Reading:**
-   - Explore the `references/` directory for additional insights.
-
-## Contact
-
-For any queries regarding the course materials, please contact me at usnaveen25@gmail.com.
-
+## Note
+This README will be updated throughout the semester as new materials are added to the repository.
