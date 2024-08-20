@@ -1,34 +1,29 @@
 # EE5411: Synthesis of Control Systems
 
-## Overview
-
-This course delves into advanced control system design, covering topics such as robust control, state-space methods, and data-driven control techniques.
+## Course Details
+- Instructor: Ramkrishna Pasumarthy
+- Semester: July-Nov 2024
 
 ## Course Content
+1. Recall of basic control concepts
+2. Feedback Concepts
+3. Statespace Methods
+4. Design Techniques
 
-### Topics Covered:
-- PID Control and Gain Scheduling
-- Robust Control and Linear Quadratic Regulator (LQR)
-- Model Predictive Control (MPC)
-- State Estimation and Kalman Filter
+## Books and Reference Material
+1. Control system design by Graham C. Goodwin, Stefan F. Graebe, and Mario E. Salgado (online copy available)
+2. Feedback Control Theory, John Doyle, Bruce Francis, Allen Tannenbaum, Macmillan Publishing Co., 1990. (Online copy available)
+3. Online notes: https://www.control.lth.se/education/doctorate-program/control-system-synthesis/control-systems-synthesis-2020/
+4. Modern Control Engineering, Katsuhiko Ogata
 
-### Course Structure:
-- **Lectures:** Detailed notes and slides on advanced control techniques
-- **Assignments:** Practical assignments to reinforce learning
-- **MATLAB Code:** Scripts for simulations and control design
+## Grading Pattern
+To be decided in the class
 
-## How to Use
+## Repository Structure
+This folder contains:
+- Lecture slides
+- Assignments
+- Additional resources
 
-1. **Access Lecture Notes:**
-   - Navigate to the `lectures/` directory to review the course lectures.
-
-2. **Assignments:**
-   - Complete assignments available in the `assignments/` directory to apply the concepts.
-
-3. **MATLAB Simulations:**
-   - Use the `matlab_code/` directory for MATLAB simulations related to control design.
-
-## Contact
-
-For any queries regarding the course materials, please contact me at usnaveen25@gmail.com.
-
+## Note
+This README will be updated as more information becomes available and as new materials are added throughout the semester.
