@@ -16,7 +16,7 @@ This repository contains the course materials, assignments, and other resources 
      - Random Processes, including Bernoulli and Poisson processes
      - Limit Theorems and Convergence
    - **Resources:**
-     - [Course Syllabus]([./EE5110/syllabus.pdf](https://github.com/usnaveen/M.Tech-Control-and-Optimisation-IITM/blob/main/EE5110/ee5110-course-details.pdf))
+     - [Course Syllabus](./EE5110/ee5110-course-details.pdf))
      - [Lecture Notes](./EE5110/lectures/)
      - [Assignments](./EE5110/assignments/)
      - [Reference Books](./EE5110/references/)
